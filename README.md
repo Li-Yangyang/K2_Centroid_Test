@@ -11,4 +11,5 @@ This is a prime python code for conducting centroid test for K2/Kepler target. T
 3. Modify the stellar parameters as model.ini shows
 4. Input the light curve file and pixel fits file, here I use light curve from EVEREST pipeline and pixel fits from K2 archive from MAST
 5. When running this code, you can derive two figures about out-of-transit image and difference image and one figure about dignosis indicating whether the transiting is caused by planet or not. 
-
+## Notion
+kplr2011265_prf folder contains 84 PRF files for each channel (details in the readme.txt in this folder)
